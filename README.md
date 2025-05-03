@@ -18,9 +18,9 @@ The AI combines:
 | Opponent | Strategy | Counter | Win Rate |
 |----------|----------|---------|----------|
 | **Quincy** | Repeats pattern | Detect and beat next move | ✅ 99.9% |
-| **Kris** | Static response | Counter previous move | ✅ 75.9% |
-| **Mrugesh** | Predicts you | Add random noise + exploit | ✅ 81.0% |
-| **Abbey** | Predicts based on 2-grams | Frequency analysis | ✅ 59.7% |
+| **Kris** | Static response | Counter previous move | ✅ 99.9% |
+| **Mrugesh** | Predicts you | Add random noise + exploit | ✅ 84.9% |
+| **Abbey** | Predicts based on 2-grams | Frequency analysis | ✅ 61.4%  |
 
 > Final average win rate across all bots: **✔️ Challenge Passed**
 
