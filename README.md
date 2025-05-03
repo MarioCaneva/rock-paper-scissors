@@ -1,6 +1,6 @@
 # 🪨📄✂️ Rock Paper Scissors AI
 
-An adaptive AI bot that defeats four distinct Rock-Paper-Scissors opponents using pattern prediction, behavior analysis, and strategic countering. Achieves over **60% win rate** against each opponent as part of the [FreeCodeCamp Scientific Computing with Python](https://www.freecodecamp.org/learn/) certification.
+An adaptive AI bot that defeats four distinct Rock-Paper-Scissors opponents using pattern prediction, behavior analysis, and strategic countering. Achieves over **60% win rate** against each opponent as part of the [FreeCodeCamp Machine Learning with Python](https://www.freecodecamp.org/learn/) certification.
 
 ## 🎯 Objective
 Create a Python program that consistently beats four built-in bots (`Abbey`, `Kris`, `Mrugesh`, and `Quincy`) with at least a 60% win rate.
